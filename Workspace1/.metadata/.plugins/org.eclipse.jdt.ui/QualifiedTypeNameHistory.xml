@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.apache.wicket.markup.html.WebComponent"/>
+    <fullyQualifiedTypeName name="org.apache.wicket.markup.html.form.Button"/>
+    <fullyQualifiedTypeName name="org.apache.wicket.markup.html.panel.FeedbackPanel"/>
+    <fullyQualifiedTypeName name="org.apache.wicket.validation.validator.StringValidator"/>
+    <fullyQualifiedTypeName name="org.apache.wicket.ajax.markup.html.AjaxLink"/>
+    <fullyQualifiedTypeName name="org.apache.wicket.markup.html.basic.Label"/>
+    <fullyQualifiedTypeName name="org.apache.wicket.markup.html.form.Form"/>
+    <fullyQualifiedTypeName name="com.sun.tools.javac.util.Convert"/>
+    <fullyQualifiedTypeName name="java.sql.Connection"/>
+    <fullyQualifiedTypeName name="java.sql.DriverManager"/>
+    <fullyQualifiedTypeName name="javax.net.ssl.SSLContext"/>
+    <fullyQualifiedTypeName name="java.security.Security"/>
+    <fullyQualifiedTypeName name="Workspace.first.HomePage"/>
+    <fullyQualifiedTypeName name="org.apache.wicket.protocol.http.WebSession"/>
+    <fullyQualifiedTypeName name="org.apache.wicket.authroles.authentication.panel.SignInPanel.SignInForm"/>
+    <fullyQualifiedTypeName name="org.apache.wicket.markup.html.form.CheckBox"/>
+    <fullyQualifiedTypeName name="org.apache.wicket.markup.html.form.CheckBoxSelector"/>
+    <fullyQualifiedTypeName name="Workspace.first.Table"/>
+    <fullyQualifiedTypeName name="org.apache.wicket.markup.html.form.TextField"/>
+    <fullyQualifiedTypeName name="org.apache.wicket.model.PropertyModel"/>
+    <fullyQualifiedTypeName name="org.apache.wicket.markup.html.form.PasswordTextField"/>
+</qualifiedTypeNameHistroy>

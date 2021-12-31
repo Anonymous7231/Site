@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html xmlns:wicket="http://wicket.apache.org">
+<head>
+<meta charset="windows-1251">
+<title>Авторизация</title>
+ <style type="text/css">
+ 	body {background: url(wallpaper.jpg);}
+ 	h1.first {font-family:"Times New Roman",Times,regfont; font-size:20pt; text-align:center;}
+ 	p.log {font-family:"Times New Roman",Times,regfont; font-size:15pt; text-align:center;}
+ 	p.pas {font-family:"Times New Roman",Times,regfont; font-size:15pt; text-align:center;padding-right:7px;}
+ 	input.sub {font-family:"Times New Roman",Times,regfont; font-size:10pt;height:25px; width:75px;}
+ </style>
+</head>
+<body>
+	<h1 wicket:id="feedback"></h1>
+	<h1 class="first">Страница авторизации</h1>
+	<p class="log">Логин: <input wicket:id="Login" type="text" size="15"></p>
+	<p class="pas">Пароль: <input wicket:id="Password" type="password" size="15"></p>
+	<div style="text-align:center">
+		<input wicket:id="EnterButton" class="sub" type="submit" value="Войти"/>
+	</div>
+</body>
+</html>

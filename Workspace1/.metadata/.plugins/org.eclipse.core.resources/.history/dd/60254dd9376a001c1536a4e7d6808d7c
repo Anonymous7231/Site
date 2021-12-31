@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html xmlns:wicket="http://wicket.apache.org">
+<head>
+<meta charset="windows-1251">
+<title>Панель редактирования</title>
+<style type="text/css">
+ 	body {background: url(wallpaper.jpg);}
+ 	h1.first {font-family:"Times New Roman",Times,regfont; font-size:20pt; text-align:center;}
+ 	td.title {font-family:"Times New Roman",Times,regfont; font-size:14pt; text-align:center;}
+ 	td.notatitle {font-family:"Times New Roman",Times,regfont; font-size:12pt; text-align:center;}
+ 	p.part {font-family:"Times New Roman",Times,regfont; font-size:12pt;}
+ </style>
+</head>
+<body>
+	<form wicket:id="MyForm">
+		<h1 wicket:id="feedback" align="center"></h1>
+		<h1 class="first">Редактирование таблицы пользователей</h1>
+    	<p class="part">Логин: <input wicket:id="login" type="text" size="15"></p>
+    	<p class="part">Пароль: <input wicket:id="Password" type="password" size="15"></p>
+		<div style="text-align:left">
+			<input wicket:id="LogOut" class="sub" type="submit" value="Выйти из аккаунта"/>
+		</div>
+	</form>
+</body>
+</html>
